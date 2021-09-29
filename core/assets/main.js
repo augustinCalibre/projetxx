@@ -28,7 +28,7 @@ function contDown() {
     sec.innerHTML=s
     
 
-    console.log(d+' |'+h+'|'+min+'|'+s)
+    // console.log(d+' |'+h+'|'+min+'|'+s)
 }
 
 
